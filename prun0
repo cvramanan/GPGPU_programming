@@ -1,0 +1,16 @@
+         38675 function calls (38223 primitive calls) in 19.030 seconds
+
+   Ordered by: cumulative time
+   List reduced from 588 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000   19.030   19.030 {built-in method builtins.exec}
+        1    0.000    0.000   19.030   19.030 <string>:2(<module>)
+        1   19.001   19.001   19.002   19.002 <ipython-input-1-e3c78b4ab0c6>:10(simple_mandelbrot)
+        1    0.000    0.000    0.027    0.027 pyplot.py:2718(imshow)
+        2    0.000    0.000    0.025    0.012 pyplot.py:2366(gca)
+        2    0.000    0.000    0.025    0.012 figure.py:2021(gca)
+        1    0.000    0.000    0.025    0.025 figure.py:1254(add_subplot)
+        1    0.000    0.000    0.025    0.025 _subplots.py:18(__init__)
+        1    0.000    0.000    0.024    0.024 _base.py:434(__init__)
+        1    0.000    0.000    0.019    0.019 _base.py:1038(cla)
